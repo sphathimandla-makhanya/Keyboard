@@ -7,31 +7,96 @@
     background-color: black;
     border-radius: 10px;
     width: fit-content;
-    margin: 55px;
     padding: 20px;
 }
 
 .keyboard button{
-    padding: 10px;
+    padding: 15px;
+    margin: 2px;
+    width: 55px;
+    height: 55px;
+    font-size: 20px;
 }
+
+
+
+
 .div1 button{
     padding: 0px;
     margin-bottom: 4px;
+    font-size: 15px;
+    height: 20px;
+    width: 52px;
 }
 
 .div2 button{
-    padding: 0px;
     margin-bottom: 4px;
-    
+}
+
+.div2 #id1{
+    width: 55px;
+}
+
+.div2 #bspace{
+    width: 134px;
 }
 
 .div3 button{
-    padding: 0px;
     margin-bottom: 4px;
 }
 
-.div4 button{
-    padding: 0px;
-    margin-bottom: 4px;
+.div3 #tab{
+    width: 112px;
 }
+
+.div3 #bslash{
+    width: 77px;
+}
+.div4 button{
+    margin-bottom: 4px;
+} 
+
+.div4 #caps{
+    width: 120px;
+}
+
+.div4 #enter{
+    width: 133px;
+}
+
+.div5 button{
+    margin-bottom: 4px;
+} 
+.div5 #shift{
+    width: 158px;
+}
+
+.div6 #space{
+    width: 325px;
+}
+
+.numbers input{
+    width: 55px;
+    height: 55px;
+}
+
+.numbers{
+    float: right;
+}
+
+#plus{
+    height: 110px;
+}
+
+#zero{
+    width: 110px;
+}
+
+#ent{
+    height: 110px;
+}
+
+
+
+
 
